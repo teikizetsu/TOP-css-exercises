@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.oddline{
+    background-color: #e7677b;
+    font-family: Verdana, 'DejaVu Sans', sans_serif
+}
+
+.adjust_font{
+    font-size: 24px
+}
+
+#secondline{
+    color: #0000ff;
+    font-size: 36px
+}
+
+#fourthline{
+    background-color: lightgreen;
+    font-weight: bold
+}
